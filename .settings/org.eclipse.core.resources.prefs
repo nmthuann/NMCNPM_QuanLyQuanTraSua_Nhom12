@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/controller/AccountController.java=UTF-8
+encoding//src/main/java/com/controller/AdminController.java=UTF-8
+encoding//src/main/java/com/controller/EmployeeController.java=UTF-8
+encoding//src/main/java/com/dao/BillDao.java=UTF-8
+encoding//src/main/java/com/dao/DetailBillDao.java=UTF-8
+encoding//src/main/java/com/dao/DrinkDao.java=UTF-8
+encoding//src/main/java/com/dao/EmployeeDao.java=UTF-8
+encoding//src/main/java/com/dao/SeatDao.java=UTF-8
+encoding//src/main/java/com/entity/EmployeeEntity.java=UTF-8
+encoding//src/main/java/com/entity/SeatEntity.java=UTF-8
+encoding//src/main/java/com/interceptor/AdminInterceptor.java=UTF-8
+encoding//src/main/java/com/interceptor/EmployeeInterceptor.java=UTF-8
+encoding//src/main/java/com/service/DrinkService.java=UTF-8
+encoding//src/main/java/com/service/EmployeeService.java=UTF-8
+encoding//src/main/java/com/service/SeatService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/include/menu.jsp=UTF-8
